@@ -4,3 +4,5 @@
 
 print("Python")
 print('Python')
+
+# FORK: будет ошибка
