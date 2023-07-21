@@ -3,3 +3,6 @@
 # TODO: приведите примеры
 print(" A \n B ")
 print(' A \n B \n C ')
+```
+`"""А можно и так"""
+print(' A \n \n B ')`
