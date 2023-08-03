@@ -10,3 +10,7 @@ a1A = 3
 print(A_1)
 print(_1A)
 print(a1A)
+# TODO ошибки
+1A = 5
+1 A = 4
+a 1-F = 3
