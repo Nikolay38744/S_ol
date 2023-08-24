@@ -3,7 +3,9 @@ A = "Ведите ваши данные"
 print(A)
 A = ("Имя:")
 B = ("Отчество:")
+R = ("Возрост:")
 Z = input(A)
 C = input(B)
-print(Z, C)
-
+T = ("Возрост")
+E = int(input(R))
+print(Z, C, T, E)
