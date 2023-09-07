@@ -3,3 +3,6 @@
 
 R = int(input())
 print(R)
+
+# Решение
+print(R := int(input()))
