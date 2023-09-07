@@ -3,5 +3,5 @@
 
 A = int(input())
 B = int(input())
-C = A + B
-print(C)
+print(A + B)
+```Код можно сделать короче
