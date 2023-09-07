@@ -4,4 +4,3 @@
 A = int(input())
 B = int(input())
 print(A + B)
-```Код можно сделать короче
