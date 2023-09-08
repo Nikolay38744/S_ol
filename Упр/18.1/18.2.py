@@ -3,6 +3,6 @@
 A = int(input("Ведите свой возраст:"))
 B = input("Ведите своё имя:")
 if A >= 18:
-    print("Wtlcome", B)
+    print("Welcome" + B)
 else:
     print("Sorry", B)
