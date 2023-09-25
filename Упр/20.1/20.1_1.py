@@ -2,7 +2,7 @@
 print("Щёты")
 A = int(input("Веди число.:"))
 B = 2 * A
-if B <= 20:
+if 2 + 1 - 2 > B <= 20:
     print(B)
 else:
     print("Превысил")
