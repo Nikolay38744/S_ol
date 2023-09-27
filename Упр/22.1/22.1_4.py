@@ -4,3 +4,4 @@ if A in S:
     print("Bingo")
 else:
     print(not A is S)
+    print("Exit")
