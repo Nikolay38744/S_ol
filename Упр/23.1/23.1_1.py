@@ -2,6 +2,5 @@
 
 print("Добавь число к списку")
 A = int(input("Ведите число.:"))
-nu = [1, 2, 3]
-nu.append(A)
+nu = [1, 2, 3, A]
 print(nu)
